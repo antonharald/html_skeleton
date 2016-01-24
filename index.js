@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // HTML skeleton
 // A command-line tool, that removes attribute values and text content from
 // the html file which is given as the first argument. The result is printed
