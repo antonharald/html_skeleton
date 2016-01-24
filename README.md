@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/antonharald/html_skeleton/master/img/logo.gifhttps://raw.githubusercontent.com/antonharald/html_skeleton/master/img/logo.gif "html_skeleton")
+
 # html_skeleton
 
 A command line tool, that extracts the skeleton of a html document, omitting text content and attribute values.
