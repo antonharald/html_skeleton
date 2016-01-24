@@ -20,5 +20,5 @@ from anywhere in your terminal you can call now:
 
 `html_skeleton your_file.html`
 
-And the HTML skeleton will pe printed to you terminal.
+And the HTML skeleton will pe printed to your terminal.
 
