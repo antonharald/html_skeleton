@@ -4,11 +4,11 @@ A command line tool, that extracts the skeleton of a html document, omitting tex
 
 # Installation
 
-Install Node.js (https://nodejs.org/en/)
+Install [Node.js](https://nodejs.org/en/)
 
 In the terminal, you run:
 
-npm install -g html_skeleton
+`npm install -g html_skeleton`
 
 (the -g option means global installation)
 
@@ -16,7 +16,7 @@ npm install -g html_skeleton
 
 from anywhere in your terminal you can call now:
 
-html_skeleton <filename.html>
+`html_skeleton your_file.html`
 
 And the HTML skeleton will pe printed to you terminal.
 
