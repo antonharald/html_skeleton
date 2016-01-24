@@ -16,9 +16,9 @@ In the terminal, you run:
 
 # Usage
 
-from anywhere in your terminal you can call now:
+From anywhere in your terminal you can call now:
 
 `html_skeleton your_file.html`
 
-And the HTML skeleton will pe printed to your terminal.
+And the HTML skeleton will be printed to your terminal.
 
