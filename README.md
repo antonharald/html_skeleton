@@ -12,7 +12,7 @@ In the terminal, you run:
 
 `npm install -g html_skeleton`
 
-(the -g option means global installation)
+(the -g option means global installation. You also might use "sudo")
 
 # Usage
 
